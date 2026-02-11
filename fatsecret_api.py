@@ -2,8 +2,8 @@ import requests
 from requests_oauthlib import OAuth1
 
 # Replace with your FatSecret API keys
-CONSUMER_KEY = ''
-CONSUMER_SECRET = ''
+CONSUMER_KEY = '187b33965bff45caa20d4b885468174b'
+CONSUMER_SECRET = '2a0b338c42314d6d8784158badbe5950'
 
 BASE_URL = 'https://platform.fatsecret.com/rest/server.api'
 
